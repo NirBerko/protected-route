@@ -4,7 +4,7 @@ protected-route
 
  # Example
  ```js
- import ProtectedRoute from "react-router-protected-route";
+ import ProtectedRoute from "protected-route";
 
  <Switch>
      <ProtectedRoute
