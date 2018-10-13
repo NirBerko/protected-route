@@ -4,7 +4,6 @@ protected-route
 
 [![NPM](https://img.shields.io/npm/v/protected-route.svg)](https://www.npmjs.com/package/Mezrmouse)
 [![MIT License][license-image]][license-url]
-[![Build Status][travis-image]][travis-url]
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNirBerko%2Fprotected-route.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNirBerko%2Fprotected-route?ref=badge_shield)
 
  ## Example
